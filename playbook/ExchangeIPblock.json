@@ -14,7 +14,7 @@
     "author": {
       "name": "Thijs Lecomte"
     },
-    "contentType": "AzureLogicApp"  // ✅ Added this line
+    "contentType": "AzureLogicApp"  
   },
   "parameters": {
     "PlaybookName": {
